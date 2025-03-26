@@ -1,4 +1,5 @@
 // 1. Electricity Bill Calculation
+console.log("1. Electricity Bill Calculation");
 
 let unitsConsumed = 250, totalBill, surcharge, finalAmount;
 
@@ -32,7 +33,9 @@ else {
 // Output: The electricity bill is: 550 Rs, Surcharge: 110 Rs, The final amount to pay is: 660 Rs
 
 
-// 2. Season Based on Month (Using Switch)
+// 2. Season Based On Month (Using Switch)
+
+console.log("2. Season Based On Month (Using Switch)");
 
 let monthNumber = prompt("Enter the month number (1-12):");
 console.log("You entered month:", monthNumber);
@@ -83,7 +86,10 @@ switch (monthNumber) {
 // output : if input 3 : winter
 
 
-// 3. Interest Calculation Based on Years
+// 3. Interest Calculation Based On Years
+
+console.log("3. Interest Calculation Based On Years");
+
 
 let principalAmount = prompt("Enter The principal Amount:");
 let timeInYears = prompt("Enter The Number Of Years:");
@@ -107,7 +113,12 @@ console.log("The total interest is:", totalInterest, "Rs");
 
 // output : principal = 25000 ; time : 5 : rate : 5% == 3750
 
+
+
 // 4. Voting Eligibility Check;
+
+console.log("4. Voting Eligibility Check");
+
 
 let userAge = prompt("Enter Your Age:");
 
@@ -123,7 +134,12 @@ else {
 
 // output : 20 : You Are Eligible To Vote.;
 
-// 5. Classify Age Groups
+
+
+// 5. Clarify  Age Groups
+
+console.log(" 5. Clarify Age Groups");
+
 
 let enteredAge = prompt("Enter Your Age:");
 
