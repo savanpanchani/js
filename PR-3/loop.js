@@ -168,18 +168,16 @@
 // 8. Write a JAVASCRIPT Program that displays 1-2-3-4-5-6-7-8-9-10 on one line using a for loop.
 // There will be no hyphen(-) at starting and ending position.
 
-// let i = 1
-// let sum = 0;
-// for(let i = 1; i*i <= 100; i++){
-//     console.log(i*i);
-//     sum = sum + i* i
+// let result = "";
+
+// for (let i = 1; i <= 10; i++) {
+//     result += i;
+//     if (i < 10) {
+//         result += "-"; 
+//     }
 // }
-// console.log("Sum Of All Digit :", sum)
 
-//  output   1, 4, 9, 16, ......100  
-//  sum = 385
-
-
+// console.log(result);
 
 // 9. Write a JAVASCRIPT Program that displays 1+4+9+16+....+100 = 385 on one line using a for loop.
 
@@ -189,7 +187,7 @@
 
 // for (let i = 1; i <= 10; i++) {
 //     sum += i * i;
-//     result += (i * i) + (i < 10 ? "+" : ""); // Add "+" after each number except the last
+//     result += (i * i) + (i < 10 ? "+" : "");
 // }
 
 // console.log(result + " = " + sum);
