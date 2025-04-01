@@ -179,6 +179,8 @@
 
 // console.log(result);
 
+// output :1-2-3-4-5-6-7-8-9-10
+
 // 9. Write a JAVASCRIPT Program that displays 1+4+9+16+....+100 = 385 on one line using a for loop.
 
 
