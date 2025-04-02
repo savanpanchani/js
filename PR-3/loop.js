@@ -116,7 +116,7 @@
 // {
 //     sum = sum + i;
 // }
-// console.log("Your 0 to 30 sum is :",sum);
+// console.log("Your 0 to 40 sum is :",sum);
 
 // output : Your 0 to 40 sum is : 820
 
