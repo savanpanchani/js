@@ -19,7 +19,6 @@
 
 
 
-// ===========================================================================================================
 
 
 
@@ -38,7 +37,6 @@
 
 
 
-// ===========================================================================================================
 
 
 // 3. Write a JAVASCRIPT Program to find Triangle area ( area = (l*h)/2 ) using return type with argument function.
@@ -56,7 +54,7 @@
 
 
 
-// ===========================================================================================================
+
 
 
 
@@ -75,7 +73,6 @@
 
 
 
-// ===========================================================================================================
 
 
 // 5. Write a JAVASCRIPT Program to find ans of ((b*b)(4*a*c))/(2*a) using return type with argument function.
@@ -96,19 +93,18 @@
 
 // 6. Write a JAVASCRIPT Program to find ans of (a*a) + (2*a*b) + (b*b) using return type with argument function
 
-let a,b,c;
-function Formula2(a,b,c){
-    Formula2 = (a*a) + (2*a*b) + (b*b);
-    return console.log("Formula 2 Ans : ",Formula2);
-}
+// let a,b,c;
+// function Formula2(a,b,c){
+//     Formula2 = (a*a) + (2*a*b) + (b*b);
+//     return console.log("Formula 2 Ans : ",Formula2);
+// }
 
-Formula2(5,6,7);
+// Formula2(5,6,7);
 
 // output : Formula 2 Ans :  121
 
 
 
-// ===========================================================================================================
 
 
 // 7. Write a JAVASCRIPT Program to convert Fahrenheit to Celsius (c = (f-32)/1.8 ) using return type with argument function.
@@ -125,7 +121,6 @@ Formula2(5,6,7);
 
 
 
-// ===========================================================================================================
 
 
 
@@ -141,8 +136,6 @@ Formula2(5,6,7);
 // output : Celctofeh Ans: 127.4
 
 
-
-// ===========================================================================================================
 
 
 
@@ -167,8 +160,6 @@ Formula2(5,6,7);
 
 // output : Given Number Is Odd
 
-
-// ===========================================================================================================
 
 
 
