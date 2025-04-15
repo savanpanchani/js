@@ -185,7 +185,7 @@
 // let filterWords = words.filter((word) => word.length >= 8);
 // console.log(filterWords);
 
-// output: ['Javascript']
+// output: ['Python', 'Go', 'Java', 'PHP', 'Ruby']
 
 
 
